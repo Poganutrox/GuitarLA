@@ -11,3 +11,6 @@ First project learning React with TypeScript!
 - Dynamic Pricing: The total price of the cart is calculated dynamically as products are added, removed, or their quantities are changed.
 - Cart Persistence: The cart content is saved in the browser's local storage, so it persists even if the user closes and reopens the browser.
 
+## Links
+guitarla-mamorenoga.netlify.app
+
