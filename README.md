@@ -12,5 +12,5 @@ First project learning React with TypeScript!
 - Cart Persistence: The cart content is saved in the browser's local storage, so it persists even if the user closes and reopens the browser.
 
 ## Links
-guitarla-mamorenoga.netlify.app
+[guitarla-mamorenoga.netlify.app](guitarla-mamorenoga.netlify.app)
 
