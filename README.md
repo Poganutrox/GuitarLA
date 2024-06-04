@@ -1,7 +1,10 @@
 # GuitarLA
-First project learning React with TypeScript!
-
 ![image](https://github.com/Poganutrox/GuitarLA/assets/63597815/9984dd49-5cc7-4017-b0a2-20db51506e92)
+
+## Key Features
+- Local Storage: Utilizes LocalStorage for local persistence, ensuring that user data is saved and accessible even after refreshing the browser.
+
+- React Hooks: Employs various React hooks such as useReducer, useState, useMemo, and useEffect for efficient state management and side effects handling.
 
 ## Features
 
